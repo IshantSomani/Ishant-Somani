@@ -1,4 +1,4 @@
-import Header from "./containers/header";
+import Header from "./containers/Header";
 import { PORTFOLIO_SECTION } from "./data/portfolio";
 import { useState } from "react";
 

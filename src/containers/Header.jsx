@@ -1,4 +1,3 @@
-import { memo } from "react";
 import { SOCIAL_LINKS } from "../data/portfolio";
 
 const Header = () => {
@@ -38,4 +37,4 @@ const Header = () => {
   );
 };
 
-export default memo(Header);
+export default Header;
